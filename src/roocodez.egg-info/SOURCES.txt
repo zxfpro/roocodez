@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/roocodez/__init__.py
+src/roocodez/core.py
+src/roocodez/log.py
+src/roocodez/server.py
+src/roocodez.egg-info/PKG-INFO
+src/roocodez.egg-info/SOURCES.txt
+src/roocodez.egg-info/dependency_links.txt
+src/roocodez.egg-info/requires.txt
+src/roocodez.egg-info/top_level.txt
+tests/test_main.py
